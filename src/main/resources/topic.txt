@@ -1,0 +1,6 @@
+Version - SpringBoot and CouchBase Java SDK
+Bucket
+Index - create primary index ON Bucket;
+ObjectMapper - https://stackabuse.com/how-to-convert-json-object-to-java-object-with-jackson/
+Java SDK - https://docs.couchbase.com/java-sdk/3.0/hello-world/start-using-sdk.html
+SpringData - https://docs.spring.io/spring-data/couchbase/docs/current/reference/html/#reference
